@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+![profile](yuning-guo.github.io/images/profile.png)
+
 Education
 ======
 * B.S. in GitHub, GitHub University, 2012

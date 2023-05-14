@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yunin Guo / Site Title"
+title                    : "郭钰宁 / Site Title"
 title_separator          : "-"
-name                     : &name "郭钰宁"
+name                     : &name "Yuning Guo"
 description              : &description "personal description"
 url                      : https://yuning-guo.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -81,10 +81,10 @@ analytics:
 # Site Author
 author:
   name             : "Yuning Guo"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
-  employer         :
+  avatar           : "profile.jpg"
+  bio              : "Associate Professor"
+  location         : "西安"
+  employer         : "西安交通大学"
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
   email            :

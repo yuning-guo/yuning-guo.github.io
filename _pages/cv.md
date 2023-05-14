@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-![profile](images/profile.png)
+![profile](https://github.com/yuning-guo/yuning-guo.github.io/images/profile.png)
 
 Education
 ======
